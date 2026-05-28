@@ -1,0 +1,6 @@
+name: VerifyBridge
+version: 1.0.1
+main: com.netpulse.verifybridge.VerifyBridgePlugin
+api-version: 1.21
+description: Bridges authentication and verification asynchronously with modern Java 25 standards.
+softdepend: [AuthMe]
